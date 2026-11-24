@@ -8,7 +8,7 @@ Standard library only.
 
 import os
 
-ENTRY = "My last percent loaded your boarding pass \u2014 when I die, you're the guy explaining 'window seat' in mime."
+ENTRY = "I spent my last percent on your boarding pass \u2014 now go explain 'window seat' to the gate agent in mime."
 
 OUTPUT_PATH = "/output/entry.txt"
 
